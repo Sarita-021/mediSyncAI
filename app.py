@@ -172,4 +172,4 @@ with gr.Blocks() as MediSyncAI:
 
 if __name__ == "__main__":
     # Launch the Gradio app with a public link
-    MediSyncAI.launch(share=True)
+    MediSyncAI.launch()
